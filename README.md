@@ -1,1 +1,1 @@
-# Beautify-nykaa-clone-
+# Beautify-nykaa-clone
